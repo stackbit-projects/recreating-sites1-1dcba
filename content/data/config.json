@@ -19,7 +19,7 @@
                 "type": "Link",
                 "label": "Sign in",
                 "url": "/",
-                "altText": "Sign in",
+                "altText": "Home",
                 "style": "link"
             },
             {

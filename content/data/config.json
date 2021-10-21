@@ -26,7 +26,7 @@
                 "type": "Button",
                 "label": "509-924-4681",
                 "altText": "509-924-4681",
-                "style": "secondary",
+                "style": "primary",
                 "url": "/"
             }
         ]

@@ -13,7 +13,7 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: middle
     text: >
-      ## High quality, modern healthcare in a small practice setting. You are
+      ### High quality, modern healthcare in a small practice setting. You are
       more than just a number to us. Welcome.
     actions: []
     feature:

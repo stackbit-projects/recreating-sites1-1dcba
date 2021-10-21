@@ -57,7 +57,7 @@
             },
             {
                 "label": "Patient Portal",
-                "altText": "Learn more",
+                "altText": "Patient Portal",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",

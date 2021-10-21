@@ -24,7 +24,7 @@
             },
             {
                 "type": "Button",
-                "label": "Appts & forms",
+                "label": "Appts & Forms",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "secondary"

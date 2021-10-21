@@ -88,7 +88,6 @@ sections:
     actionsPosition: bottom
     backgroundImage:
       altText: lorem-ipsum
-      caption: lorem-ipsum
       opacity: 100
       elementId: ''
       type: ImageBlock

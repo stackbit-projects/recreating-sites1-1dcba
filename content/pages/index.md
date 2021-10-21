@@ -69,7 +69,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - colors: colors-g
+  - colors: colors-h
     width: full
     height: short
     topGap: none

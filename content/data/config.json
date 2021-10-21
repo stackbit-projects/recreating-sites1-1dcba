@@ -36,7 +36,7 @@
             {
                 "label": "Medical News & Info",
                 "altText": "Medical News & Info",
-                "url": "https://www.gilmanfamilypractice.com/blog/",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

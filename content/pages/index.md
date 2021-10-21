@@ -13,11 +13,9 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: middle
     title: This Is A Big Hero Headline
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      High quality, modern healthcare in a small practice setting. You are more
+      than just a number to us. Welcome.
     actions: []
     feature:
       type: ImageBlock

@@ -12,7 +12,6 @@ sections:
     contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle
-    title: This Is A Big Hero Headline
     text: >
       High quality, modern healthcare in a small practice setting. You are more
       than just a number to us. Welcome.

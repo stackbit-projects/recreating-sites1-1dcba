@@ -40,7 +40,6 @@ sections:
     contentAlignVert: middle
     bottomGap: none
     topGap: none
-    title: Blog Posts
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md

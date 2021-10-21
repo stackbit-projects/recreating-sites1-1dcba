@@ -31,7 +31,7 @@ sections:
       actions:
         textAlign: left
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     width: wide
     height: tall
     contentWidth: large

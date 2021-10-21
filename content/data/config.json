@@ -17,7 +17,7 @@
         "secondaryLinks": [
             {
                 "type": "Link",
-                "label": "Sign in",
+                "label": "Home",
                 "url": "/",
                 "altText": "Home",
                 "style": "link"

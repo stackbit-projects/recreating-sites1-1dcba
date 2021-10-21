@@ -58,7 +58,7 @@
             {
                 "label": "Patient Portal",
                 "altText": "Patient Portal",
-                "url": "/",
+                "url": "https://myhealthrecord.com/Portal/SSO",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

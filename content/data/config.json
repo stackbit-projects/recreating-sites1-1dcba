@@ -13,14 +13,7 @@
             "url": "/images/good-goose.png",
             "altText": "Logo"
         },
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Example",
-                "url": "/example",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [
             {
                 "type": "Link",

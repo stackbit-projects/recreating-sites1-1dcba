@@ -56,7 +56,7 @@
                 "type": "Link"
             },
             {
-                "label": "Learn more",
+                "label": "Patient Portal",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,

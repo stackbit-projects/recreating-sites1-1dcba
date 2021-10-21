@@ -25,7 +25,7 @@
             {
                 "label": "Appts & Forms",
                 "altText": "Appts & Forms",
-                "url": "https://www.gilmanfamilypractice.com/docs/",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

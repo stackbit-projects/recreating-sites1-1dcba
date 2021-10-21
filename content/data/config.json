@@ -46,7 +46,7 @@
             },
             {
                 "label": "About us",
-                "altText": "Learn more",
+                "altText": "About us",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",

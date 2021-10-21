@@ -31,7 +31,7 @@ sections:
       actions:
         textAlign: left
   - type: FeaturedPostsSection
-    variant: variant-b
+    variant: variant-a
     colors: colors-c
     width: wide
     height: short

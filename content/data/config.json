@@ -47,7 +47,7 @@
             {
                 "label": "About us",
                 "altText": "About us",
-                "url": "/about",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

@@ -82,7 +82,7 @@ sections:
       For appointments and more info please call our office at 509-924-4681
     actions:
       - type: Button
-        label: Try it now
+        label: How to Become a Patient
         url: /docs
         style: primary
     actionsPosition: bottom

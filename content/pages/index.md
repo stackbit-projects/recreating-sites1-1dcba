@@ -95,6 +95,9 @@ sections:
       elementId: ''
       type: ImageBlock
     type: CtaSection
+    styles:
+      title:
+        textAlign: center
   - type: ContactSection
     variant: variant-b
     colors: colors-h

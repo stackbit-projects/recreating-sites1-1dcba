@@ -86,10 +86,6 @@ sections:
         url: /docs
         style: primary
     actionsPosition: bottom
-    backgroundImage:
-      opacity: 100
-      elementId: ''
-      type: ImageBlock
     type: CtaSection
     styles:
       title:

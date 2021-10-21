@@ -25,7 +25,7 @@
             {
                 "label": "Appts & Forms",
                 "altText": "Appts & Forms",
-                "url": "/",
+                "url": "/docs",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",

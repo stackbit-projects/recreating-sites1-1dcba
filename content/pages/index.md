@@ -96,6 +96,8 @@ sections:
     styles:
       title:
         textAlign: center
+      text:
+        textAlign: center
   - type: ContactSection
     variant: variant-b
     colors: colors-h

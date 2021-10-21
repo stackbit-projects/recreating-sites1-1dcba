@@ -70,8 +70,8 @@ sections:
       text:
         textAlign: center
   - colors: colors-c
-    width: wide
-    height: tall
+    width: full
+    height: short
     topGap: none
     bottomGap: none
     contentWidth: large

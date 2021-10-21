@@ -54,7 +54,7 @@ sections:
   - type: TextSection
     colors: colors-f
     width: full
-    height: tall
+    height: short
     contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle

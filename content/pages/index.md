@@ -33,7 +33,7 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
-    featurePosition: right
+    featurePosition: bottom
     styles:
       title:
         textAlign: left

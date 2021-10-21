@@ -25,7 +25,7 @@
             {
                 "type": "Button",
                 "label": "Appts & Forms",
-                "url": "/",
+                "url": "https://www.gilmanfamilypractice.com/docs/",
                 "altText": "Sign up",
                 "style": "secondary"
             }

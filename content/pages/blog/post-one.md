@@ -6,9 +6,6 @@ author: content/data/team/dianne-ameter.json
 excerpt: >-
   Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
-featuredImage:
-  type: ImageBlock
-  altText: Post Image
 bottomSections:
   - type: CtaSection
     colors: colors-e

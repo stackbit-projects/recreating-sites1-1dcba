@@ -10,7 +10,7 @@ sections:
     bottomGap: none
     topGap: none
     contentWidth: large
-    contentAlignHoriz: left
+    contentAlignHoriz: center
     contentAlignVert: middle
     title: This Is A Big Hero Headline
     text: >-

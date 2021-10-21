@@ -83,7 +83,7 @@ sections:
     actions:
       - type: Button
         label: Try it now
-        url: /about
+        url: /docs
         style: primary
     actionsPosition: bottom
     backgroundImage:

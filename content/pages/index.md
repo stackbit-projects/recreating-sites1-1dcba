@@ -53,7 +53,7 @@ sections:
         textAlign: center
   - type: TextSection
     colors: colors-f
-    width: wide
+    width: full
     height: tall
     contentWidth: small
     contentAlignHoriz: center

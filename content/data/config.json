@@ -7,7 +7,7 @@
         "secondaryColors": "colors-a",
         "width": "wide",
         "title": "Minimal",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
             "url": "/images/good-goose.png",

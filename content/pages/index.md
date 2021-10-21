@@ -32,7 +32,7 @@ sections:
         textAlign: left
   - type: FeaturedPostsSection
     variant: variant-a
-    colors: colors-c
+    colors: colors-a
     width: full
     height: short
     contentWidth: medium

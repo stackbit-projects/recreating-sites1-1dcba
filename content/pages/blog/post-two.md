@@ -1,5 +1,5 @@
 ---
-title: Post Title Two
+title: Clinic News & Updates
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hugh-saturation.json

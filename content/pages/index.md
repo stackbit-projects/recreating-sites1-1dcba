@@ -21,7 +21,7 @@ sections:
     actions: []
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/GFP_Clinic_Front_WG_June2021.png
       altText: Image alt text
       caption: Image caption
     featurePosition: bottom

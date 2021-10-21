@@ -22,7 +22,7 @@ sections:
     feature:
       type: ImageBlock
       url: /images/GFP_Clinic_Front_WG_June2021.png
-      altText: Image alt text
+      altText: Gilman Family Practice
       caption: Image caption
     featurePosition: bottom
     styles:

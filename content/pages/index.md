@@ -51,31 +51,6 @@ sections:
         textAlign: center
       actions:
         textAlign: center
-  - type: CtaSection
-    colors: colors-c
-    width: wide
-    height: short
-    contentAlignHoriz: center
-    contentWidth: medium
-    bottomGap: none
-    topGap: none
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-    actionsPosition: right
-    styles:
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        textAlign: left
   - type: TextSection
     colors: colors-f
     width: wide

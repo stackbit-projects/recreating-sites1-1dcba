@@ -91,6 +91,24 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
     type: FeaturedPostsSection
+  - colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    elementId: ''
+    variant: variant-a
+    title: About us
+    subtitle: Meet the team
+    actions: []
+    people:
+      - content/data/team/desmond-eagle.json
+      - content/data/team/dianne-ameter.json
+      - content/data/team/hilary-ouse.json
+    type: FeaturedPeopleSection
   - colors: colors-f
     width: full
     height: short

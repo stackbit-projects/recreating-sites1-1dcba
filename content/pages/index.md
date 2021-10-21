@@ -78,7 +78,6 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: middle
     elementId: ''
-    title: For appointments and more info please call our office at 509-924-4681
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

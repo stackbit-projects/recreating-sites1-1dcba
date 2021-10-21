@@ -35,7 +35,7 @@
             },
             {
                 "label": "Medical News & Info",
-                "altText": "Learn more",
+                "altText": "Medical News & Info",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
